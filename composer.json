@@ -1,0 +1,14 @@
+{
+    "name": "codershout/gglink",
+    "description": "GGLink authentication and setting api base",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "farukhaidarbd",
+            "email": "farukhaidar3@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
