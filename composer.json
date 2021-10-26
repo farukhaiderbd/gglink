@@ -10,5 +10,18 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Codershout\\Gglink\\": "src/"
+        }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codershout\\GGLink\\GGLinkServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
